@@ -14,7 +14,9 @@ function App() {
         <ProfComponent />
       </Banner>
       <Services />
-      <Skills/>
+      <LightColor>
+        <Skills />
+      </LightColor>
       <LightColor>
         <Projects />
       </LightColor>
